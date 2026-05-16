@@ -4,7 +4,7 @@
   "pub_date": "2026-05-16T19:11:05.667Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDZKY2c0MklFdlpIR0Z2QlRzRnJkV3F0WGMzY3BLZUg2RGtudVlNcGF2N0NlcGFMUlNZbVFwd3NPSWcxTjZvREJCdlBwYjNJSUh3eXBwYWF6MXJxbXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTUyOTcwCWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpYQ1UwT25xWXlLeForaUhCU3c1SjRGZ1NHaXdleDRsZjd3N0V3UE9TZlJYVkZ2eDRDQlpFR1dtWDJMS2tHQmY3cUdQVmJpcnlxU0drbWhCcVpCYUxBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDFoL1F0UjBjRkJIQitoV3FVSFhqdi8yUzBsM1M1L1NvQlR5L2M4emVhSXA2SGJnL0QyQng4R1hSaUt2Tk56L2FONGR1RGdNdWd0T3pzUVpPcTJYWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTU5NTk3CWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpyclQwVC9rTUdudi9MVEpGSFZFUytoaFdvcmd4Ry9WOTloam5KUDV2ZlVlWTFJMnFhclhrTWIwSFZWMHZtZEpwSE1rVm9NU1N3eXhBdUpXdlJUNjZCdz09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-macos-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
