@@ -1,14 +1,14 @@
 {
   "version": "0.1.0",
   "notes": "Базовая beta-версия КАПА с поддержкой обновлений",
-  "pub_date": "2026-05-16T17:05:15.727Z",
+  "pub_date": "2026-05-16T17:22:01.117Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcC9xK0RNeVZJajBXeXJCTG00bkJPNEVkS3VDYzUzZUhJSjVScXdWRDNrWEtGbnZudGpyUEplRno4QXN2djNId1lUSUZvZmFEYUNQU3NPRklHRC9LbncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTQ5NDM3CWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpLdnlXbUxCQXVWbWhiRkpWR2tpMWNxZHoxVUtIMzAzbXFseWNGQytaVmpHRG8xTUhLN2NaVEhma1gxQThYTUIreTlBbnVaWU83bDVZNktXSkpUVzJEUT09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-macos-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDBlQTcvWmFUa2o2em4za0xXVHR4N0E0Q0g0enRCbUo3TCtQQ2JVOWFyWDNFRWd2QVI0OWFETWZZR3czaXREK1I1dUZRR1k2YUttTERzejN5cjRHOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTUxMDI2CWZpbGU60JrQkNCf0JBfMC4xLjBfeDY0LXNldHVwLmV4ZQppTU0yb0NXam1Jak5mdlVtNVluQVVUSXN4cEZzd2lCMzFsbGRUVlBSU2poOGxQSnpiNWVqR2FjdDhhcGc0a0dlN2VjeGNITlMwc205Vmt3d29NeGVDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcHpKQ1BuM0hITFk0UDZMVzQyOGVHYnVHYWRSbXBXQ3hsU1FEZDEyUDBIQUVFQ3ZQN1JCM0E3U0Zub2orOUlMTXl1YTkxajdwazB6Z2kzRW9BRjVnekFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTUyMDc4CWZpbGU60JrQkNCf0JBfMC4xLjBfeDY0LXNldHVwLmV4ZQpZTFNsa3d1bUZ4MEhZa2tDb0FheklsemhMZGJQbmNyYXM5amxOd3VZVEJUNTVqZjgwRmRUMGlMdXVDTmJXV0lnU3VCV3FXTzl4bjdNYXB0QnYzZ0xBdz09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-windows-x64-setup.exe"
     }
   }
