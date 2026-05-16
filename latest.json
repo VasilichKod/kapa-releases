@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Базовая beta-версия КАПА с поддержкой обновлений",
+  "pub_date": "2026-05-16T15:50:18.975Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDNNQ1pGZFFwTk03Nm1sbVdsQ00zK0M4eHFtS0poSERVRDBMNy8rSitzdVZWaVZyTDZNN1hwYlBpWWlwVXV3aU5nV2IrSnRHcDlpNmtCaHAxd2YwQVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTQ2NTIyCWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpETU5ETXhTMWdEd3BRWXlrc2MyTmtzcGtPTHdWSEExc0NVREtUNUJ1czRVK0xwZ3NLaUZUbnhwcWxTWXhmUlhhaXNjWnZvdUNWTHd2b3ErTzQ2MXlEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-macos-aarch64.app.tar.gz"
+    }
+  }
+}
