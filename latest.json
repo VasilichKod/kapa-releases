@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
-  "notes": "Версия 0.1.0: готовый beta-релиз КАПА; исправлен Windows iPhone import.",
-  "pub_date": "2026-05-16T22:44:58.344Z",
+  "notes": "Версия 0.1.0: готовый beta-релиз КАПА; исправлен Windows iPhone import и macOS Android MTP import.",
+  "pub_date": "2026-05-16T23:25:31.974Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDNLTmZZaFhlQUlrRUs5cEo5elN5bXZIMzg1SzhZYS9BaHVMVkFyY0RrbERORnhWN2JVVy9tc1hpUTRwV2l1NHh5VzRiZFR1bFlVRjRkYWc0eHBkZGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTYzMTQ1CWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpKQU9BMFNGSk1sVUN6c0hWdlBsUEZMSkFqSUhFdk03VWMwaFpiT2JkMHNwVXRSclE3K2VzMSswQmtRTXFvK1BDcEhUNWVjQ2FOUlZxMWtLaVpvQlBEUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDlMQ3JmWEpibUIzT3lmWk5LK1NsaGg3d2MyWE9pOExzYVB2NDY3NDYrZVdGUzF6NEd5azVmeWNOd3JZNGZSdVlLNytJY3NValpEK3V6dmtIRGc1bVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTczODg1CWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpTRm4yOHA3SnpoUlJYbnl1MUVLUnVPNUlTOFluUTN3Ry9TS1M2YVYyd2FzZDVSZ3VwQlFPVE1XcHZSNzh5QmRxeTg5V1dGOGtmQ1V1MmpSNW9SL1ZCdz09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-macos-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
