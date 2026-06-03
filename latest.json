@@ -1,14 +1,14 @@
 {
   "version": "0.1.0",
-  "notes": "Версия 0.1.0: beta-релиз КАПА; исправлен выборочный импорт Фото/Видео для устройств Windows и Android PTP на macOS.",
-  "pub_date": "2026-05-17T07:25:29.275Z",
+  "notes": "Версия 0.1.0: готовый beta-релиз КАПА; обновлена Windows-сборка.",
+  "pub_date": "2026-06-03T19:12:38.270Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDliTDNSc0o5QTVQQkFzNDc5S2tsZ0tFdi9RQnBac3V0NFhRckV1alVMbjFPSmJ5aWdMM3oyODRva2drWit6bW1iSDBkZm1WK2NKL0lPY1N4elhjQUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDAyNjczCWZpbGU60JrQkNCf0JAuYXBwLnRhci5negpXdzVnWGtGeUY5Z3VFNFVkak9VRHdPNks3Qzk5eWxwZVU3VTRuT3BnTGdoUmd1czVTQmpGV2dIdmJSUC9nTS9LWTNYMEI3SlZ2ampkb0hYdzFTL09BUT09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-macos-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDRhQWhTaUxvUzU4QkpLRys4eFJWVFVxR3JqdVh0TnZSSDBISy9YQVkzdUtEMy9LSDFXQ1hZVitnSDFBclBxRDZSRDNoQmo2Rjk0T2YyeXJocjBUWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDAxOTg3CWZpbGU60JrQkNCf0JBfMC4xLjBfeDY0LXNldHVwLmV4ZQpUZ0hmM09VdUthdEl4QWxicXhoMWIvemQzY3BtS3RMQ3RTQkdiNVdTV1R1TElOdkFXOXBhN2NnWXd2R3JkMFZIMmhZaXZqRElPQXkwUjQyc2FhQmRBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNkYzTGxVQ3pEcDlDcXB6UCtIaENkcTI5VlR4TVdHb2lGRnM5VjFEKyt6cmdySkVWNW9pZzM5MXhFck1TVjM3Z3NvYW13NWw1Q3dxbHc5UWZaK0RTNTk0d2tmSkU0V1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTEzNTQyCWZpbGU60JrQkNCf0JBfMC4xLjBfeDY0LXNldHVwLmV4ZQp6VXRnZDY3MEJ1SVF5TkNabXhyUURUNlRyWXZ3ZVVjdlU5QXk4OWVoY2dmNjh3QTAzSmM0UHozZGNyUzNRWHdTencvU0NIU3cwRGFVMHgyNldtNjJEUT09Cg==",
       "url": "https://raw.githubusercontent.com/VasilichKod/kapa-releases/main/v0.1.0/kapa-windows-x64-setup.exe"
     }
   }
